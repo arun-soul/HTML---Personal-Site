@@ -1,0 +1,105 @@
+body {
+  text-align: center;
+  margin: 0;
+  background-color: #191919;
+}
+/*************************TEXTS****************************/
+.general-text {
+  line-height: 2;
+  font-family: 'Tw Cen MT';
+  font-size: 20px;
+  color: pink;
+}
+.tabs {
+  font-family: 'TW Cen MT';
+  display: inline-block;
+
+  margin: 0;
+  padding: 10px 40px;
+  color: white;
+  font-size: 28px;
+}
+.title {
+  color: #B8405E;
+  font-family: 'Dancing Script', cursive;
+  font-size: 70px;
+  margin: 0 auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.headings {
+  font-family: 'Tw Cen MT';
+  color: #35858B;
+  margin: 0;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-size: 44px;
+}
+/*************************CONTAINERS****************************/
+.navigator {
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: auto;
+  background-color: black;
+}
+.top-container {
+  background-color: #191919;
+  width: 80%;
+  margin: 0 auto;
+}
+.footer {
+  background-color: grey;
+  width: 100%;
+  height: auto;
+}
+.languages {
+  display: inline-block;
+  width: 40%;
+}
+.skills {
+  display: inline-block;
+  margin: 0 10px;
+  width: 25%;
+}
+.cplus-text {
+  display: inline-block;
+  margin: auto 20px;
+  width: 35%;
+}
+.python-text {
+  display: inline-block;
+  margin: auto 20px;
+  width: 35%;
+}
+.html-text {
+  display: inline-block;
+  margin: 0 10px;
+  width: 25%;
+}
+.css-text {
+  display: inline-block;
+  margin: 0 10px;
+  width: 25%;
+}
+.java-text {
+  display: inline-block;
+  margin: 0 10px;
+  width: 25%;
+}
+/*********************IMAGES**************************/
+.image {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.skill-images {
+  margin: 20px;
+  width: 100px;
+  height: 100px;
+}
+.icons {
+  position: relative;
+  bottom: 20px;
+  padding: 20px;
+}
