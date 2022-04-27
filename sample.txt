@@ -1,0 +1,3 @@
+git status 
+git add sample.txt
+git commit -m "my word"
